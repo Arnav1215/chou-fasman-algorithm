@@ -105,24 +105,7 @@ This implementation follows the original Chou-Fasman methodology:
 
 ## 📚 Scientific Background
 
-The Chou-Fasman algorithm was developed by Peter Y. Chou and Gerald D. Fasman in 1974. It was one of the first computational methods for protein secondary structure prediction and remains valuable for:
-
-- Educational purposes in bioinformatics
-- Rapid preliminary structure analysis
-- Comparison with modern prediction methods
-- Understanding structure-sequence relationships
-
-## 🤝 Contributing
-
-Contributions are welcome! Areas for improvement:
-- Additional validation datasets
-- Performance optimizations
-- Extended output formats
-- Integration with modern prediction methods
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+The Chou-Fasman algorithm was developed by Peter Y. Chou and Gerald D. Fasman in 1974. It was one of the first computational methods for protein secondary structure prediction and remains valuable till now.
 
 ## 📧 Contact
 
@@ -134,7 +117,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Original algorithm by Chou & Fasman (1974)
 - Propensity values from empirical studies
-- Bioinformatics community for continued development
 
 ---
 
